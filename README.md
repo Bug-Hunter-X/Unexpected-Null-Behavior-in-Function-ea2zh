@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error involving unexpected behavior when null values are passed to a function that doesn't explicitly handle them.  The `bug.js` file contains the problematic code, while `bugSolution.js` provides a corrected version.
